@@ -1,0 +1,55 @@
+.mr20 {
+    margin-right: 20px;
+}
+
+i {
+    cursor: pointer;
+}
+
+input {
+    width: 70px;
+    text-align: center;
+    padding: 0;
+    height: 23px;
+}
+
+.fa-times-circle, .fa-check-circle {
+    font-size: 20px;
+    margin: 0 7px 0 7px;
+}
+
+.trash {
+    color: red;
+}
+
+.edit {
+    color: green;
+}
+
+.btn-secondary {
+    float: right;
+    border-radius: 0;
+    background-color: #32383e;
+}
+
+.page-item.active .page-link {
+    background-color: #32383e !important;
+    border-color: #32383e !important;
+}
+
+ul.pagination {
+    justify-content: center;
+}
+
+th, td {
+    width: 25%;
+    text-align: center;
+}
+
+.page-link:hover {
+    color: #32383e !important;
+}
+
+.page-link {
+    color: #32383e;
+}
