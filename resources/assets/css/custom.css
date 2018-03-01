@@ -6,7 +6,7 @@ i {
     cursor: pointer;
 }
 
-input {
+tbody input {
     width: 70px;
     text-align: center;
     padding: 0;
